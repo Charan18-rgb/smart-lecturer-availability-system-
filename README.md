@@ -73,5 +73,5 @@ Mobile App → Firebase → ESP32 → Display
 ---
 
 ## 👨‍💻 Team
-- Member 1
-- Member 2
+- Aaswija PG
+- Charan K
